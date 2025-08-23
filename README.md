@@ -9,3 +9,7 @@ The competitions were held according to classic rules and included various tasks
 Of course, the format at that time was completely different from what it is now. However, it was the first step in this direction...  It was at that moment that the author of this blog became fascinated with reverse engineering and everything related to it.
 
 At the university competitions held in 2010 among technical universities in Irkutsk, our team, CrazY geek$, took first place in the qualifying round and second place in the final.
+
+<p align="center">
+  <img src=["http://some_place.com/image.png"](https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Glider.svg/190px-Glider.svg.png) />
+</p>
