@@ -11,5 +11,5 @@ Of course, the format at that time was completely different from what it is now.
 At the university competitions held in 2010 among technical universities in Irkutsk, our team, CrazY geek$, took first place in the qualifying round and second place in the final.
 
 <p align="center">
-  <img src="https://sun9-48.userapi.com/s/v1/ig1/aZjkxEhSTkUU3e2R0U7pODUEbljRWMNZYktkZEcrAV5FBMm_oI94mn7w7xgMllgYWevwkjlZ.jpg" />
+  <img src="https://dic.academic.ru/pictures/wiki/files/49/140px-glider.svg.png" />
 </p>
