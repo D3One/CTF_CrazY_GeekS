@@ -1,7 +1,11 @@
 
-Sklyarov, I.S. Brain Teasers for Hackers
+# Sklyarov, I.S. Puzzles for Hackers
 
-Saint Petersburg: BHV-Petersburg, 2007. — 320 p. —ISBN: 5-94157-562-9
+_Saint Petersburg: BHV-Petersburg, 2007. — 320 p. —ISBN: 5-94157-562-9_
 
-In the form of puzzles, the book covers virtually all methods of hacker attacks and defenses against them, including: cryptanalysis methods, methods of intercepting data in computer networks, log file analysis, searching for and eliminating errors in programs, writing exploits, software disassembly, and little-known operating system features used by hackers. There are puzzles for programmers, web developers, and even ordinary users. All puzzles come with solutions and answers with detailed explanations. The book is based on the “X-Puzzle” column from the well-known Russian magazine “Hacker.”
+<img width="401" height="500" alt="image" src="https://github.com/user-attachments/assets/184cfe28-5f58-4bf1-a255-03db0beb6027" />
 
+These puzzles and mind-benders serve as a way to train logic and help developers, hackers, and system administrators discover unconventional solutions to common IT problems. Users will learn to find bugs in source code, write exploits, and solve nonstandard coding tasks and hacker puzzles. Cryptographic puzzles, puzzles for Linux and Windows hackers, coding puzzles, and puzzles for web designers are included.
+
+**Amazon Books:**
+https://www.amazon.com/Puzzles-Hackers-Ivan-Sklyarov/dp/1931769451
