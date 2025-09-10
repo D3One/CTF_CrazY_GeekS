@@ -96,6 +96,8 @@ if __name__ == '__main__':
     print(f"[i] After XOR with 0x5678: {serial_num} (0x{serial_num:X})")
 ```
 
+<img width="284" height="173" alt="image" src="https://github.com/user-attachments/assets/94983dae-e93d-4896-bda1-d767bbc55186" />
+
 ## Conclusion
 
 This crackme was a great introduction to the basics of static analysis. The process involved:
