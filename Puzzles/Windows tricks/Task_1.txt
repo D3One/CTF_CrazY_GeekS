@@ -1,0 +1,3 @@
+Challenge 1: The Secret Stream
+
+Description: On this Windows XP NTFS system, we suspect a file (readme.txt) is hiding data in an Alternate Data Stream (ADS). Find the hidden stream and recover the flag inside it. Tools: cmd.exe, notepad. Theory: NTFS ADS allows you to hide data in an alternate stream of a file, invisible to standard file listing commands. Hint: Use the syntax notepad readme.txt:secret.txt

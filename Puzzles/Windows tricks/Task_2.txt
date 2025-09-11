@@ -1,0 +1,3 @@
+Challenge 2: Debugging the Impossible
+
+Description: Using only built-in Windows tools (no downloads!), create a valid .COM file that prints "Hello, CTF!" to the screen. You cannot use a compiler. Tools: cmd.exe, debug.exe. Theory: The debug.exe utility can assemble and write small programs directly to a file. Hint: (1) Run debug.exe. (2) Use the a command to assemble instructions. (3) Use int 21h with ah=9 to print a string.

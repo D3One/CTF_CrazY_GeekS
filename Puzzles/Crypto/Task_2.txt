@@ -1,0 +1,3 @@
+Challenge 2: Base64 Isn't Encryption
+
+Description: The rookie admin tried to hide the password by encoding it. All we found was this string: JDEkYmxhYmxhJHFUZEhULOh6UVBKZC9yN3Zrc0FscjE=. We know he used multiple layers of encoding. Break it. Tools: base64 -d (Linux), online decoder, John the Ripper. Theory: Look for tell-tale signs like padding (=). Remember $1$ indicates a specific hashing algorithm. Hint: The process was: Password -> [Algorithm A] -> [Algorithm B] -> Base64. Algorithm A is common on *nix systems.

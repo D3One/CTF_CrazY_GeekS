@@ -1,0 +1,3 @@
+Challenge 1: The Unseen File
+
+Description: On this Linux server, a file has been hidden from normal view. It's not a hidden file (dotfile). Find the file named flag.txt in the /tmp directory. The file system is ext3. Tools: ls, find. Theory: File names are just entries in a directory. Some characters can make them hard to see in a terminal. Hint: Try ls -lb or find /tmp -name "*flag*". The filename might start with a non-printable character like a space or a line feed.

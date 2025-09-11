@@ -1,0 +1,14 @@
+Challenge 1: Patch the Buffer Overflow
+
+Description: Here is the vulnerable code (vuln.c). It's a simple stack-based buffer overflow. Your task is not to exploit it, but to PATCH it. Fix the vulnerability using a safe function.
+
+#include <stdio.h>
+#include <string.h>
+
+int main(int argc, char *argv[]) {
+    char buffer[100];
+    strcpy(buffer, argv[1]); // <-- VULNERABILITY
+    printf("Input was: %s\n", buffer);
+    return 0;
+}
+Tools: A text editor, gcc. Theory: strcpy() does not check bounds. Use a function that does, like strncpy(). Hint: Remember to manually null-terminate the string if you use strncpy.

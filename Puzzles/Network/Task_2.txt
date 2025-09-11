@@ -1,0 +1,3 @@
+Challenge 2: The Mysterious TCP Dump
+
+Description: Analyze the provided trace.pcap file. Find the anomaly. The attacker is performing a specific type of port scan. What is the IP address of the attacker and what type of scan is he using (e.g., SYN, FIN, Xmas)? Tools: Wireshark, tcpdump. Theory: Different scan types set different TCP flags. A lack of response or a RST/ACK response can reveal the state of a port. Hint: Look for a series of packets with the FIN flag set sent to many different ports from a single IP.

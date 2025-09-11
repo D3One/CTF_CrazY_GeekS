@@ -1,0 +1,3 @@
+Challenge 2: Permission Mystery
+
+Description: You are user "player". You need to read the file /etc/flag.conf, but you get "Permission denied". The file permissions are -rw-r--r-- root root. You cannot become root. How do you read it? Tools: ls, ps. Theory: Linux permissions and process ownership. If a process running as root has the file open, you might be able to access it through the process's file descriptors. Hint: Check if any running processes owned by root have /etc/flag.conf open. Use /proc/.

@@ -1,0 +1,3 @@
+Challenge 3: The Lazy Caesar
+
+Description: The text file secret.txt contains a long string of garbled text. Frequency analysis is for noobs, but we suspect this is just a shift cipher (ROT-N). However, the shift value isn't the standard 13. Find N and read the message. Tools: Any text editor, a scripting language like Perl or Python. Theory: In a shift cipher, each letter is moved a fixed number of places down the alphabet. Hint: The most common letter in the ciphertext is 'X'.

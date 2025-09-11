@@ -1,0 +1,3 @@
+Challenge 1: The XORed Manifesto
+
+Description: We intercepted this encrypted message from a rival team: ]VTYJQC[aGC]_PDJ[(RJ[EEMLA. Our intel suggests they always use the same simple 4-byte repeating key for everything. We also know they love to use the word "creature" in their test messages. Decrypt this message and find the secret flag. Tools: Python script, xortool, or good old debug.exe. Theory: Remember the property of XOR: ciphertext ⊕ known_plaintext = key. Hint: (1) The key is short and repetitive. (2) creature_creature_creature

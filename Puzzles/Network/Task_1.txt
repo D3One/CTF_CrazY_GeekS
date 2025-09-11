@@ -1,0 +1,3 @@
+Challenge 1: Sniffing the Switch
+
+Description: We need to capture the traffic between two hosts on the local network (192.168.1.100 and 192.168.1.200). The network uses a switch. You have physical access to a port on the switch. How do you capture the traffic? Perform a successful ARP spoofing attack and capture the first 100 packets. What is the password sent in plaintext in packet #47? Tools: arpspoof (from dsniff suite), Wireshark, tcpdump. Theory: Switches segment traffic. ARP spoofing poisons the ARP cache of a target host, forcing it to send traffic through your machine. Hint: (1) Enable IP forwarding on your machine. (2) The service running on port 21.

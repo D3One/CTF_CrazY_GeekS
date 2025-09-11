@@ -1,0 +1,16 @@
+Challenge 2: Spot the Vuln - Web Edition
+
+Description: Here's a snippet of a PHP login script from a web app circa 2010. Find at least TWO critical vulnerabilities.
+
+<?php
+    $user = $_GET['username'];
+    $pass = $_GET['password'];
+    $sql = "SELECT * FROM users WHERE username='$user' AND password='$pass'";
+    $result = mysql_query($sql);
+    if (mysql_num_rows($result) > 0) {
+        echo "Access Granted!";
+    } else {
+        echo "Access Denied!";
+    }
+?>
+Tools: Your brain. Theory: (1) Never trust user input. (2) SQL queries constructed by string concatenation are bad. (3) Passwords should not be stored in plaintext. Hint: One vuln is SQL Injection. The other is related to how the password is handled.

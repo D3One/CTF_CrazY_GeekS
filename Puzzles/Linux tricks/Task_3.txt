@@ -1,0 +1,3 @@
+Challenge 3: The Environment is Key
+
+Description: The SUID program /usr/bin/game asks for a password. It doesn't seem to check the input correctly. Using ltrace, you notice it calls getenv(). Make the program output the flag without knowing the password. Tools: ltrace, export (shell command). Theory: SUID programs run with the privileges of their owner. Some programs trust their environment variables, which you can control. Hint: The program checks the environment variable GAME_PASS instead of, or in addition to, your typed input.

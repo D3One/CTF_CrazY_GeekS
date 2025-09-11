@@ -1,0 +1,3 @@
+Challenge 3: The Magic Number
+
+Description: The program validator.exe asks for a serial number. Using a debugger (like OllyDbg), find the correct serial number for the name "CTFPlayer". Tools: OllyDbg, strings utility. Theory: Hint: (1) Load the program in OllyDbg. (2) Look for string references like "Invalid Serial" or "Good Job!". (3) Set a breakpoint on the function that compares your input.
