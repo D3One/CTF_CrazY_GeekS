@@ -5,6 +5,8 @@ This directory contains a collection of Capture The Flag (CTF) challenges and th
 
 These puzzles are a tribute to the foundational years of competitive cybersecurity. They were not merely copied but designed from the ground up, drawing inspiration from the foundational texts of the time, various technical books, and, most importantly, the iconic articles found in the pages of the legendary **Xakep Magazine** (`Журнал Хакер`).
 
+![Cr@zY Geek$ Classic CTF Puzzles](https://github.com/user-attachments/assets/44cfca9c-1be4-46a2-bb2d-40ac27bfe986)
+
 ## 🧠 A Glimpse into the Past
 
 Today, these challenges might seem straightforward to a modern practitioner armed with powerful tools and vast online resources. However, **fifteen years ago, this was the cutting edge.**
