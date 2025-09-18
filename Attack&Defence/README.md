@@ -1,6 +1,8 @@
 
 # 🔐 Back to the Roots: Nostalgic Journey to University CTF Battles of the Early 2010s
 
+<img width="1664" height="928" alt="image" src="https://github.com/user-attachments/assets/1dfe8560-9629-44fb-9bfd-cd142073b13e" />
+
 ## 🧠 A Flashback to the Dawn of Competitive Hacking
 
 The year is 2010. The world is recovering from the financial crisis, Apple’s iPhone 4 is redefining mobile technology, and in the dimly lit computer labs of universities across the globe, a different revolution is brewing—the rise of **competitive cybersecurity capture-the-flag (CTF)** competitions.
